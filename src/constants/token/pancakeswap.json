@@ -1,0 +1,31 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 7,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WETH Token",
+      "symbol": "WETH",
+      "address": "0xd14f9448aebd4cd408569d9ef117518a9dcb9981",
+      "chainId": 42,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+
+    },
+    {
+      "name": "Korr Token",
+      "symbol": "KORR",
+      "address": "0x0fab15194b0256569111cf96d8eac5ec5ae9adc5",
+      "chainId": 4,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    }
+  ]
+}
